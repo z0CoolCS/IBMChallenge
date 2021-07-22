@@ -4,9 +4,9 @@ import requests
 import security as sec
 import json 
 
-question = "xxxx"
+question = "componente"
 
-def get_score (question):
+def get_score (question, filter = ""):
 
     result = sec.discovery.query(
                     environment_id=sec.environment_id, 
@@ -14,7 +14,8 @@ def get_score (question):
                     deduplicate=False, 
                     highlight=True, 
                     passages=True, 
-                    passages_count=5, 
+                    passages_count=5,
+                    filter = filter,
                     natural_language_query=question, 
                     count=5
                     )
@@ -29,7 +30,7 @@ def get_score (question):
 
     return total_score
 
-print(get_score(question))
+print(get_score(question, "maven"))
 
 
 '''
