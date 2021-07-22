@@ -20,9 +20,14 @@ def query():
 
         question = payload['respuesta']
         name = payload['nombre']
-        print(question)
+        filter_query = ""
+        if payload.get("filter") :
+            filter_query = payload["filter"]
 
-        score = serv.get_score(question)
+        print(question)
+        print(filter_query)
+
+        score = serv.get_score(question, filter_query)
         print(score)
         scores.append(score)
 
@@ -32,7 +37,7 @@ def query():
             average = sum(scores) * 1.0 / len(scores)
             response["average"] = average
             print(average)
-            if average < 5:
+            if average < 15:
                 response["contratado"] = "no"
             else :
                 response["contratado"] = "si"
