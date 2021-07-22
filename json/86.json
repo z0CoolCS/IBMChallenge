@@ -1,0 +1,5 @@
+{
+    "body": "como comentábamos al inicio del post la directiva ngif también usa las templates pero cómo lo hace vamos a bucear en las entrañas de angular para jugar un poco lo que sucede en este caso es que el elemento en el que está puesto la directiva estructural ngif se posiciona dentro de una ngtemplate y por otra parte la directiva ngif se divide en otras dos ngif y ngifelse que son la sintaxis de input en angular",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "title": " comentábamos inicio post directiva ngif templates bucear entrañas angular jugar sucede caso elemento puesto directiva estructural ngif posiciona ngtemplate directiva ngif divide ngif ngifelse sintaxis input angular"
+}

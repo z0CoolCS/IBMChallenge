@@ -1,0 +1,5 @@
+{
+    "body": "una colección representa un grupo de objetos esto objetos son conocidos como elementos cuando queremos trabajar con un conjunto de elementos necesitamos un almacén donde poder guardarlos en java se emplea la interfaz genérica collection para este propósito gracias a esta interfaz podemos almacenar cualquier tipo de objeto y podemos usar una serie de métodos comunes como pueden ser añadir eliminar obtener el tamaño de la colección partiendo de la interfaz genérica collection extienden otra serie de interfaces genéricas estas subinterfaces aportan distintas funcionalidades sobre la interfaz anterior",
+    "url": "https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java",
+    "title": " colección representa grupo objetos objetos conocidos elementos conjunto elementos necesitamos almacén guardarlos java emplea interfaz genérica collection propósito gracias interfaz almacenar tipo objeto serie métodos comunes añadir eliminar obtener tamaño colección partiendo interfaz genérica collection extienden serie interfaces genéricas subinterfaces aportan distintas funcionalidades interfaz"
+}

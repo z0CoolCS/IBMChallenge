@@ -1,0 +1,5 @@
+{
+    "body": "  vamos a suponer que el componente micomponentecomponent queremos que se pueda usar desde otros módulos entonces debemos señalar el nombre de la clase del componente en el array de exports con ello el decorador del module quedaría de esta manera",
+    "url": "https://desarrolloweb.com/articulos/trabajar-modulos-angular.html",
+    "title": "   suponer componente micomponentecomponent módulos debemos señalar nombre clase componente array exports decorador module quedaría"
+}

@@ -1,0 +1,5 @@
+{
+    "body": "hola si me pudieras ayudar cómo ordenar una listareservas que contiene objetos del tipo reservacion donde alguno de los atributos  de reservacion esta mapeado a otra clase tipo hotel y finalmente la clase hotel tiene los atributos id entero nombrehotel cadenaentonces la lista reservas deseo ordenarla ascendentemente por uno de los atributos de su objeto anidado hoteles decir listareservasgetindexgethotelgetnombrehotel",
+    "url": "https://www.oscarblancarteblog.com/2017/02/28/ordenar-listas-en-java/",
+    "title": " hola pudieras ayudar ordenar listareservas contiene objetos tipo reservacion atributos  reservacion mapeado clase tipo hotel finalmente clase hotel atributos id entero nombrehotel cadenaentonces lista reservas deseo ordenarla ascendentemente atributos objeto anidado hoteles listareservasgetindexgethotelgetnombrehotel"
+}

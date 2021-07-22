@@ -1,0 +1,5 @@
+{
+    "body": "pero de esta manera todos los elementos de la lista nos saldrán con fondo azul y eso no es lo que queremos esto sucede porque la variable temporal clickes unstringy no un número y en js por definición unstringes siempre mayor que un número y eso hace que nuestra comprobación  click  2  siempre sea true ",
+    "url": "https://www.acontracorrientech.com/directives-en-angular-guia-practica",
+    "title": " elementos lista saldrán fondo azul sucede variable temporal clickes unstringy número js definición unstringes número comprobación  click  2  true "
+}

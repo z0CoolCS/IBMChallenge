@@ -1,0 +1,5 @@
+{
+    "body": "los tiempos obtenidos demuestran que efectivamente el tiempo de inserción es menor en hashset y mayor en treeset es importante destacar que la inicialización del tamaño inicial del set a la hora de su creación es importante ya que en caso de insertar un gran número de elementos podrían aumentar el número de colisiones y con ello el tiempo de inserción",
+    "url": "https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java",
+    "title": " tiempos obtenidos demuestran efectivamente inserción menor hashset treeset importante destacar inicialización tamaño inicial set hora creación importante caso insertar número elementos aumentar número colisiones inserción"
+}

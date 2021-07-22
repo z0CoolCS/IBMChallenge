@@ -1,0 +1,5 @@
+{
+    "body": "la template no people personalizada está instanciada dentro del ngcontainer usando la propiedad ngtemplateoutlet la decisión de que template usar default o custom está determinada por la expresión ternaria aunque podríamos dejar esa lógica en un método de la clase si fuera más complicado",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "title": " template people personalizada instanciada ngcontainer usando propiedad ngtemplateoutlet decisión template default custom determinada expresión ternaria podríamos dejar lógica método clase complicado"
+}

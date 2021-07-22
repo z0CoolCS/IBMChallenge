@@ -1,0 +1,5 @@
+{
+    "body": "dentro de la etiqueta ngtemplate tenemos acceso a las mismas variables de contexto que son visibles en la template exterior como por ejemplo la variable people esto se debe a que las instancias de ngtemplate tienen acceso al mismo contexto en el cual están integradas además cada template también puede definir su set de variables vamos a ver un ejemplo aislado para entenderlo mejor",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "title": " etiqueta ngtemplate acceso variables contexto visibles template exterior variable people instancias ngtemplate acceso contexto integradas template definir set variables aislado entenderlo"
+}

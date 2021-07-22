@@ -1,0 +1,5 @@
+{
+    "body": "ninguna de estas implementaciones son sincronizadas es decir no se garantiza el estado del list si dos o más hilos acceden de forma concurrente al mismo esto se puede solucionar empleando una serie de métodos que actúan de wrapper para dotar a estas colecciones de esta falta de sincronización",
+    "url": "https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java",
+    "title": " implementaciones sincronizadas garantiza list hilos acceden forma concurrente solucionar empleando serie métodos actúan wrapper dotar colecciones falta sincronización"
+}

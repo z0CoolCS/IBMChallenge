@@ -1,0 +1,5 @@
+{
+    "body": "la interfaz set define una colección que no puede contener elementos duplicados esta interfaz contiene únicamente los métodos heredados de collection añadiendo la restricción de que los elementos duplicados están prohibidos es importante destacar que para comprobar si los elementos son elementos duplicados o no lo son es necesario que dichos elementos tengan implementada de forma correcta los métodos equals y hashcode para comprobar si dos set son iguales se comprobarán si todos los elementos que los componen son iguales sin importar en el orden que ocupen dichos elementos",
+    "url": "https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java",
+    "title": " interfaz set define colección contener elementos duplicados interfaz contiene únicamente métodos heredados collection añadiendo restricción elementos duplicados prohibidos importante destacar comprobar elementos elementos duplicados necesario dichos elementos implementada forma correcta métodos equals hashcode comprobar set iguales comprobarán elementos componen iguales importar orden ocupen dichos elementos"
+}

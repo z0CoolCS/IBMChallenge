@@ -1,0 +1,5 @@
+{
+    "body": "el escenario más simple para ordenar un lista es cuando sus elementos están preparados para ser ordenados esto implica que los elementos de la lista implementan la interface comparable al implementar esta interface las clases deberá implementar el método public interface comparablet el cual sirve para comprar un objeto contra otro este método recibe como parámetro otro objeto el cual utilizaremos para comprarlo contra el actual para responder con un entero el cual deberá ser",
+    "url": "https://www.oscarblancarteblog.com/2017/02/28/ordenar-listas-en-java/",
+    "title": " escenario simple ordenar lista elementos preparados ordenados implica elementos lista implementan interface comparable implementar interface clases deberá implementar método public interface comparablet sirve comprar objeto método recibe parámetro objeto utilizaremos comprarlo actual responder entero deberá"
+}

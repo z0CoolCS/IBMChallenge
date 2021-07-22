@@ -1,0 +1,5 @@
+{
+    "body": "eso es una expresión angular lo sustiruirá por el contenido de una variable title antes de mostrarlo al cliente esa variable se define en lo que sería el controlador en el patrón mvc solo que en angular 2 no se le llama controlador o controller ahora es una clase que podemos encontrar en el archivo typescript proyectoangular2componentts si lo abres encontrarás varias cosas",
+    "url": "https://desarrolloweb.com/articulos/introduccion-componentes-angular2.html",
+    "title": " expresión angular sustiruirá contenido variable title mostrarlo cliente variable define controlador patrón mvc angular 2 llama controlador controller clase encontrar archivo typescript proyectoangular2componentts abres encontrarás"
+}

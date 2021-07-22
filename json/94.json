@@ -1,0 +1,5 @@
+{
+    "body": "en esta template a diferencia de las anteriores tenemos una variable de entrada llamada peoplecounter definida con la propiedad ngtemplate usando el prefijo let esta variable es visible dentro de la ngtemplate pero no fuera el contenido de la variable se determina por la expresión que está asignada a la propiedad letpeoplecounter",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "title": " template diferencia anteriores variable entrada llamada peoplecounter definida propiedad ngtemplate usando prefijo let variable visible ngtemplate contenido variable determina expresión asignada propiedad letpeoplecounter"
+}

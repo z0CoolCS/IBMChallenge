@@ -1,0 +1,5 @@
+{
+    "body": "como puedes ver hemos creado un componente llamado peoplelist donde hemos puesto toda la lógica que teníamos antes en el appcomponent aquí podemos ver que tenemos una template definida por defecto que indica que no hay personas en inglés llamada defaultnopeople esta se usará mientras la propiedad de entrada customnopeopletpl sea undefined si esta propiedad está definida entonces la template de entrada personalizada pasada por customnopeopletply se usará para mostrar el contenido en español",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "title": " puedes creado componente llamado peoplelist puesto lógica appcomponent template definida defecto indica personas inglés llamada defaultnopeople usará propiedad entrada customnopeopletpl undefined propiedad definida template entrada personalizada customnopeopletply usará mostrar contenido español"
+}

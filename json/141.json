@@ -1,0 +1,5 @@
+{
+    "body": "  es habitual que quieras colocar el servicio dentro de un módulo en concreto para lo que puedes indicar el nombre del módulo una barra  y el nombre del servicio pero atención ahora lo detallaremos mejor pero queremos advertir ya que esto no agregará el servicio al código de un módulo concreto sino que colocará el archivo en el directorio de ese módulo enseguida veremos qué tienes que hacer para que este servicio se asigne realmente al módulo que desees",
+    "url": "https://desarrolloweb.com/articulos/servicios-angular.html",
+    "title": "   habitual quieras colocar servicio módulo concreto puedes indicar nombre módulo barra  nombre servicio atención detallaremos advertir agregará servicio código módulo concreto colocará archivo directorio módulo enseguida veremos servicio asigne realmente módulo desees"
+}

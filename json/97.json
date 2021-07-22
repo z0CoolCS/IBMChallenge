@@ -1,0 +1,5 @@
+{
+    "body": "la template se puede inyectar como cualquier otro elemento dom o componente añadiendo a viewchild el nombre de referencia en nuestro caso nopeople por lo tanto ahora podemos hacer cosas como pasar la template de referencia a otros componentes como por ejemplo un parámetro de entrada",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "title": " template inyectar elemento dom componente añadiendo viewchild nombre referencia caso nopeople pasar template referencia componentes parámetro entrada"
+}

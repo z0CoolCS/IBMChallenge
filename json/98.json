@@ -1,0 +1,5 @@
+{
+    "body": "vamos a hacer que nuestro componente sea configurable a través de una entrada que sea una template de referencia nuestro componente muestra la template nopeople cuando el array de personas es cero vamos a dar la opción de que si a nuestro componente le pasan otra template de referencia mediante una entrada se muestre esa template y si no mantendremos la que hemos hecho por defecto",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "title": " componente configurable entrada template referencia componente muestra template nopeople array personas cero opción componente pasan template referencia entrada muestre template mantendremos defecto"
+}

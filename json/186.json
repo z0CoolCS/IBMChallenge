@@ -1,0 +1,5 @@
+{
+    "body": "  si no lo vemos o no vemos nada entonces nos tenemos que fijar el error que nos aparece que podría estar visible en la pantalla del terminal donde hemos hecho el ng serve o en la consola de javascript de tu navegador posiblemente allí te diga que tal componente no se conoce con un mensaje como parse errors appmicomponente is not a known element eso quiere decir que no has hecho el import correctamente en el decorador del módulo principal o bien que te has olvidado de hacer el exports del componente a usar en el módulo recién creado",
+    "url": "https://desarrolloweb.com/articulos/trabajar-modulos-angular.html",
+    "title": "   vemos vemos fijar error aparece visible pantalla terminal ng serve consola javascript navegador posiblemente allí diga componente conoce mensaje parse errors appmicomponente is not known element import correctamente decorador módulo principal olvidado exports componente módulo recién creado"
+}

@@ -1,0 +1,5 @@
+{
+    "body": "  en principio esto no sería tan problemático pero sabemos que la organización del código manteniendo piezas pequeñas de responsabilidad reducida es siempre muy positiva además siempre llegará el momento en el que dos o más componentes tengan que acceder a los mismos datos y hacer operaciones similares con ellos que podrían obligarnos a repetir código para solucionar estas situaciones tenemos a los servicios",
+    "url": "https://desarrolloweb.com/articulos/servicios-angular.html",
+    "title": "   principio problemático organización código manteniendo piezas pequeñas responsabilidad reducida positiva llegará componentes acceder datos operaciones similares obligarnos repetir código solucionar situaciones servicios"
+}

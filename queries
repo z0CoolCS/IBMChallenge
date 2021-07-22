@@ -1,0 +1,148 @@
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+1. ¿Qué es un componente en Angular? 
+Un componente en Angular es un bloque de código re-utilizable, que consta básicamente de 3 archivos: un CSS, un HTML (también conocido como plantilla o en inglés, template) y un TypeScript (en adelante, TS).
+
+Un componente en Angular es un bloque de código re-utilizable, compuesto por CSS, HTML TypeScript o TS
+
+Un componente es un elemento reutilizable. Como las etiquetas en HTML.
+
+Es un pedazo de codigo que puede ser reutilizable mediante una etiqueta.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+2. ¿Qué es una directiva en Angular? 
+Las directivas en Angular corresponden a elementos en el HTML que permiten añadir, manipular o eliminar elementos del DOM. 
+
+
+Son instrucciones para manipular el DOM.
+
+Son indicaciones para manipular el DOM como un componente.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+3. ¿Qué es un servicio en Angular?
+Un servicio es la capa encargada de traer y proporcionar los datos a nuestra aplicación de Angular. 
+
+Básicamente un servicio es un proveedor de datos, que mantiene lógica de acceso a ellos y operativa relacionada con el negocio y las cosas que se hacen con los datos dentro de una aplicación. 
+
+Un servicio da a un aplicativo lo que este le pida.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+4. ¿Qué es un módulo en Angular?
+Módulo Angular es un conjunto de artefactos Angular, como son componentes, directivas, pipes y servicios que forman parte de ese mismo módulo. 
+
+
+Un módulo es uno de los elementos principales con los que podemos organizar el código de las aplicaciones en Angular.
+
+Un modulo es como un folder permite organizar los distintos componentes en Angular.
+
+---------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------- 
+5. ¿Qué es el patrón redux en Angular? 
+REDUX es un patrón de diseño, es decir, es tan solo una forma de enfocar una parte muy importante de un proyecto de software , la forma en la que nuestra aplicación va a almacenar los datos y la forma en la que vamos a acceder a ellos.
+
+
+Redux es un patrón de arquitectura de datos que permite manejar el estado de la aplicación de una manera predecible. 
+
+
+Redux es una herramienta para la gestión de estado en apps Javascript 
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+6. ¿Cuál es la diferencia entre ng-container y ng-template en Angular? 
+
+ng-template se usa para la directiva estructural como ng-if, ng-for y ng-switch. Por otro lado, ng-container se utiliza cuando no tiene una envoltura o contenedor principal adecuado. En la mayoría de los casos, estamos usando div o span como un contenedor, pero en esos casos cuando queremos usar múltiples directivas estructurales Pero no podemos usar más de una directiva estructural en un elemento, en ese caso, ng-container puede usarse como un contenedor.
+
+
+ng-template se usa para la directiva estructural. Mientras que, ng-container se utiliza cuando no tiene una envoltura.
+
+ng-template se usa para la directiva estructural. Mientras que, ng-container se utiliza cuando no tiene un contenedor principal adecuado.
+
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+7. ¿Diferencia entre clase abstracta y una interfaz? 
+las clases abstractas funcionan como una clase que declara la existencia de métodos pero no su implementación.
+Una clase abstracta puede contener métodos no abstractos pero al menos uno de los métodos sí debe serlo.
+Los Interfaces son unas clases completamente abstractas que contiene sólo una colección de métodos abstractos y propiedades constantes.
+
+Una clase abstracta puede tener metodos no abstractas, pero las interfaces solo pueden tener metodos abstractos.
+
+Las interfaces solo cuentan con metodos abstractos, pero las clases abstractas pueden tener metodos no abstractos.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+8. ¿Cómo se ordena una colección de objetos en java? 
+Se ordeban mediante clases contenedores, que almacenan los elementos bajo cierta estructura.
+
+Se almacenan mediante una estructura particular que permite ya sea recuperarlas rapido, ordenarlas o eliminarlas del conjunto rapidamente.
+
+
+Se ordeban por medio de un conjunto de clases contenedores.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+9. ¿Qué es la Interfaz Map? 
+Nos permite representar una estructura de datos para almacenar pares clave-valor.
+
+Son como diccionarios que permiten recuperar un valor mediante una clave.
+
+Son un componente que permite contener elementos mediante una estructura clave valor.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+10. ¿Qué es la Interfaz Set? 
+Es un contenedor que refleja la estructura de un conjunto. 
+
+Es una clase que no permite contener valores duplicados.
+
+Es un contenedor que no permite contener valores duplicados y no existe orden dentro de ella. 
+
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+11. ¿Qué es la Interfaz List? 
+es una clase que almacena elementos de forma ordenada
+
+es como un array, guarda elementos se forma sequencial
+
+permite guardar elemento de forma ordenada uno tras otro.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+12. ¿Qué es el patrón singleton?
+Es un patron que permite tener solo una instancia para una clase
+
+Es un patron que asegura tener solo una instancia por una clase
+
+Es un patron cuyo propósito es evitar que sea creado más de un objeto por clase.
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+13. ¿Comó implementaría el patrón Singleton?
+creo una function que me devuelva una instancia y un objeto estatico dentro de la clase que sea la instancia que retorne el metodo.
+
+creo una instancia estatica de la clase dentro de esta como atributo y un metodo que devuelva esta instancia
+
+un metodo que devuelva una instancia estatica de la clase
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+14. ¿Qué entendes por el patrón de diseño Strategy? 
+patrones de comportamiento, que equipan un software con diferentes métodos de resolución
+
+es un patron de diseño que permite contener una serie de funciones que alimentaran a todo el software reutilizando codigo
+
+ es un patrón de tipo comportamental y se centra en definir la forma en la que se produce el intercambio de mensajes entre distintos componentes
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+15. ¿Para qué sirve un pom.xml y qué relación tiene con Maven?
+
+es el fichero en donde vamos a describir nuestro proyecto.
+
+es un archivo que almacena la estructura del proyecto bajo maven
+
+es un file que guarda la configuracion de paquetes y estructura del proyecto con maven.
